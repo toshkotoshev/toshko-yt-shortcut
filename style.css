@@ -1,0 +1,14 @@
+a {
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+}
+
+h2 {
+    margin-top: 100vw;
+    color: brown;
+    display: flex;
+    justify-content: center;
+    border: double 1vw;
+}
